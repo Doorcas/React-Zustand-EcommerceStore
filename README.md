@@ -19,3 +19,5 @@ This project demonstrates modern React patterns, global state management, and e-
 - **React** – Frontend UI library 
 - **Zustand** – State management for global state (cart, modals) 
 - **CSS** – Styling and animations 
+
+click here to view live website: https://starsyntax-ecommercestore.netlify.app/
